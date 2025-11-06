@@ -11,22 +11,7 @@ O propósito deste repositório é:
 *   **Documentar** as soluções e os aprendizados de cada etapa.
 *   **Servir como portfólio** das habilidades adquiridas na disciplina.
 
-## 📂 Estrutura do Projeto
 
-A organização dos arquivos segue a seguinte estrutura:
-
-```
-.
-├── README.md
-├── Exercicios/
-│   ├── Lista_01/
-│   ├── Lista_02/
-│   └── ...
-├── Projetos/
-│   ├── Projeto_01_Nome_Curto/
-│   └── Projeto_02_Nome_Curto/
-└── src/ (Opcional, para código-fonte principal de projetos maiores)
-```
 
 ## 🛠️ Tecnologias Utilizadas
 
