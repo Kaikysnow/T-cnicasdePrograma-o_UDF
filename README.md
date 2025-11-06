@@ -36,38 +36,4 @@ Liste aqui as principais linguagens, frameworks e ferramentas utilizadas na disc
 *   **Ambiente de Desenvolvimento:** [Ex: VS Code, IntelliJ IDEA]
 *   **Outras Ferramentas:** [Ex: Git, GitHub]
 
-## 🚀 Como Executar os Projetos
 
-Para clonar e executar os projetos localmente, siga os passos abaixo:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [URL do seu repositório]
-    ```
-2.  **Navegue até o diretório do projeto desejado:**
-    ```bash
-    cd [Nome do Repositório]/Projetos/Projeto_01_Nome_Curto
-    ```
-3.  **Instale as dependências (se houver):**
-    ```bash
-    # Exemplo para Python
-    pip install -r requirements.txt
-    ```
-4.  **Execute o programa:**
-    ```bash
-    # Exemplo
-    python main.py
-    ```
-
-## 📝 Licença
-
-Este projeto está sob a licença [Ex: MIT, GPL, ou "Todos os Direitos Reservados para fins acadêmicos"]. Consulte o arquivo `LICENSE` para mais detalhes.
-
-## 🧑‍💻 Autor
-
-| Função | Nome | Matrícula |
-| :--- | :--- | :--- |
-| Desenvolvedor(a) | [Seu Nome Completo] | [Sua Matrícula] |
-
----
-*Última atualização: [Data da última modificação]*
