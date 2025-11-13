@@ -18,7 +18,19 @@ O propósito deste repositório é:
 Liste aqui as principais linguagens, frameworks e ferramentas utilizadas na disciplina.
 
 *   **Linguagem Principal:** Python,
-*   **Ambiente de Desenvolvimento:** VS Code, Intelli
-*   **Outras Ferramentas:** Git, GitHub
+*   **Ambiente de Desenvolvimento:** VS Code
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,sublime" />
+    <!-- Adicione mais ícones de tecnologias que você usa, separados por vírgula. Ex: ?i=js,ts,react,nodejs,python,docker,aws -->
+  </a>
+</p>
+Outras Ferramentas: Git, GitHub
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+    <!-- Adicione mais ícones de tecnologias que você usa, separados por vírgula. Ex: ?i=js,ts,react,nodejs,python,docker,aws -->
+  </a>
+</p>
 
 
