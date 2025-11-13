@@ -17,8 +17,8 @@ O propósito deste repositório é:
 
 Liste aqui as principais linguagens, frameworks e ferramentas utilizadas na disciplina.
 
-*   **Linguagem Principal:** [Ex: Python, Java, C++]
-*   **Ambiente de Desenvolvimento:** [Ex: VS Code, IntelliJ IDEA]
-*   **Outras Ferramentas:** [Ex: Git, GitHub]
+*   **Linguagem Principal:** Python,
+*   **Ambiente de Desenvolvimento:** VS Code, Intelli
+*   **Outras Ferramentas:** Git, GitHub
 
 
